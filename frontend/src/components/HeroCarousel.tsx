@@ -4,6 +4,8 @@ import "swiper/css";
 import "swiper/css/effect-fade";
 import { assets } from "@/assets/assets";
 
+
+
 type slide = {
   title: string;
   img: string;
