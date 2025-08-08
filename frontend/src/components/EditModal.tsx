@@ -37,7 +37,7 @@ export default function EditCharacterModal({
 
   return (
     <div className="fixed inset-0 bg-black/40 backdrop-blur-sm flex items-center justify-center z-50">
-      <div className="relative bg-white rounded-2xl shadow-2xl w-full max-w-lg p-8">
+      <div className="relative bg-gray-800 rounded-2xl shadow-2xl w-full max-w-lg p-8">
         <button
           onClick={() => setIsEditing(false)}
           className="absolute top-4 right-4 text-gray-500 hover:text-gray-800"
@@ -47,7 +47,7 @@ export default function EditCharacterModal({
 
         <div className="flex items-center gap-2 mb-6">
           <Pencil className="w-6 h-6 text-blue-600" />
-          <h2 className="text-2xl font-bold text-gray-800">Edit Character</h2>
+          <h2 className="text-2xl font-bold text-white">Edit Character</h2>
         </div>
 
         <form onSubmit={handleSubmit} className="space-y-4">
@@ -91,13 +91,13 @@ export default function EditCharacterModal({
             <button
               type="button"
               onClick={() => setIsEditing(false)}
-              className="flex items-center gap-2 px-5 py-2 rounded-lg border border-gray-300 hover:bg-gray-100 transition"
+              className="flex items-center gap-2 px-5 py-2 rounded-lg border border-gray-300 cursor-pointer transition"
             >
               Cancel
             </button>
             <button
               type="submit"
-              className="flex items-center gap-2 bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition"
+              className="flex items-center gap-2 bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition cursor-pointer"
             >
               <Pencil className="w-5 h-5" />
               Save Changes

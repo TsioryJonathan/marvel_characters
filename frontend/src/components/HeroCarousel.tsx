@@ -4,7 +4,12 @@ import "swiper/css";
 import "swiper/css/effect-fade";
 import { assets } from "@/assets/assets";
 
-const marvelSlides = [
+type slide = {
+  title: string;
+  img: string;
+};
+
+const marvelSlides: slide[] = [
   { title: "BLACK PANTHER", img: assets.blackpanther },
   { title: "CAPTAIN MARVEL", img: assets.captainmarvel },
   { title: "IRON MAN", img: assets.ironman },

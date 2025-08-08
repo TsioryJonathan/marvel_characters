@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import {  getCharacters } from "../lib/getCharacters";
+import { getCharacters } from "../lib/getCharacters";
 import CharacterCard from "./CharacterCard";
 import CreateCharacterModal from "./CreateCharacterModal";
 import SearchBar from "./SearchBar";
@@ -18,7 +18,7 @@ export default function CharacterList() {
   const [searchTerm, setSearchTerm] = useState<string>("");
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [error, setError] = useState<string | null>(null);
-  
+
   useEffect(() => {
     (async () => {
       try {
@@ -41,7 +41,7 @@ export default function CharacterList() {
     );
   }
   return (
-    <div className="p-8 relative">
+    <div className="p-8 relative" id="marvel-character">
       <div className="flex justify-center mb-8">
         <button
           onClick={() => setIsCreating(true)}

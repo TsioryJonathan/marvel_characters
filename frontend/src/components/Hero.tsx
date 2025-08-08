@@ -24,7 +24,7 @@ export default function HeroSection() {
             READ NOW <ArrowRight className="w-5 h-5" />
           </a>
           <a
-            href="#"
+            href="#marvel-character"
             className="bg-transparent border border-[#f8d32f] hover:bg-[#f8d32f] hover:text-black text-[#f8d32f] font-bold px-6 py-2 rounded-sm shadow uppercase text-base tracking-wide transition"
           >
             DISCOVER MORE

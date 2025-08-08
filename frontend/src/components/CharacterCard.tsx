@@ -99,7 +99,7 @@ export default function CharacterCard({ character, setCharactersList }: Props) {
         <div className="flex gap-2 w-full mt-5">
           <button
             onClick={() => handleDelete(character.id)}
-            className="flex-1 flex items-center justify-center gap-2 bg-red-600/90 text-white py-2 rounded-lg font-comic font-semibold shadow hover:bg-red-700 transition"
+            className="flex-1 flex items-center justify-center gap-2 bg-red-600/90 text-white py-2 rounded-lg font-comic font-semibold shadow hover:bg-red-700 transition cursor-pointer"
           >
             {isDeleting ? (
               <Loader2 className="w-5 h-5 animate-spin" />
@@ -110,7 +110,7 @@ export default function CharacterCard({ character, setCharactersList }: Props) {
           </button>
           <button
             onClick={() => setIsEditing(true)}
-            className="flex-1 flex items-center justify-center gap-2 bg-blue-600/90 text-white py-2 rounded-lg font-comic font-semibold shadow hover:bg-blue-700 transition"
+            className="flex-1 flex items-center justify-center gap-2 bg-blue-600/90 text-white py-2 rounded-lg font-comic font-semibold shadow hover:bg-blue-700 transition cursor-pointer"
           >
             <Pencil className="w-4 h-4" />
             Edit

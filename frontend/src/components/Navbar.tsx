@@ -1,12 +1,7 @@
 import { assets } from "@/assets/assets";
 import { useState } from "react";
 
-const navLinks = [
-  { name: "Browse Comics", href: "/comics" },
-  { name: "Genre", href: "/genre" },
-  { name: "Community", href: "/community" },
-  { name: "About Us", href: "/about" },
-];
+const navLinks = [{ name: "Browse Marvel Characters", href: "/" }];
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);

@@ -47,8 +47,8 @@ export default function CreateCharacterModal({
   };
 
   return (
-    <div className="fixed inset-0 bg-blue-600/50 backdrop-blur-2xl flex items-center justify-center z-50">
-      <div className="bg-white rounded-2xl p-8 w-full max-w-md shadow-xl relative">
+    <div className="fixed inset-0 bg-black/40 backdrop-blur-2xl flex items-center justify-center z-50">
+      <div className="bg-gray-800 rounded-2xl p-8 w-full max-w-md shadow-xl relative">
         <button
           onClick={() => setIsCreating(false)}
           className="absolute top-3 right-4 text-xl text-gray-500 hover:text-red-600"
