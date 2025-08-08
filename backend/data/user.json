@@ -5,56 +5,56 @@
       "name": "Spider-Man",
       "realName": "Peter Parker",
       "universe": "Earth-616",
-      "image": "https://www.superherodb.com/pictures2/portraits/10/100/133.jpg"
+      "image": "https://imgs.search.brave.com/CpzxGUNQE4ntdVyOeOeEQC_GJpIppYqKfwzihbJkxEA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Nw/aWRlcm1hbnBzNC9p/bWFnZXMvZC9kNC9N/YXJ2ZWwnc19TcGlk/ZXItTWFuX2Zyb250/X2NvdmVyXyhVUyku/cG5nL3JldmlzaW9u/L2xhdGVzdC9zY2Fs/ZS10by13aWR0aC1k/b3duLzI2OD9jYj0y/MDIwMTAwMzE4MjQz/Mg"
     },
     {
       "id": 2,
       "name": "Iron Man",
       "realName": "Tony Stark",
       "universe": "Earth-616",
-      "image": "https://www.superherodb.com/pictures2/portraits/10/100/85.jpg"
+      "image": "https://imgs.search.brave.com/15K54hge51_Kuo-iyZwDTxcbmWhmP1YNTtgLC7NvuZQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jb21p/Y3ZpbmUuZ2FtZXNw/b3QuY29tL2EvdXBs/b2Fkcy9zY2FsZV9z/bWFsbC8xMS8xMTM1/MDkvNjg4MTQ1Ny1u/ZW1lc2lzJTIwaXJv/biUyMG1hbi5qcGc"
     },
     {
       "id": 3,
       "name": "Captain America",
       "realName": "Steve Rogers",
       "universe": "Earth-616",
-      "image": "https://www.superherodb.com/pictures2/portraits/10/100/274.jpg"
+      "image": "https://imgs.search.brave.com/A3i5ktLKmJlo1jBzdpy_vSxIxunSJiy3bQsSzsHHoE8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFoekF2Tm9OR0wu/anBn"
     },
     {
       "id": 4,
       "name": "Black Widow",
       "realName": "Natasha Romanoff",
       "universe": "Earth-616",
-      "image": "https://www.superherodb.com/pictures2/portraits/10/100/248.jpg"
+      "image": "https://imgs.search.brave.com/XYP6OL3lkA06_ErfYeb9B4RoTbZJAYU4vy5FRmVxgSY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXQuY29t/L3cvZnVsbC84Lzkv/ZC8zNDkzODctMjU2/MHgxNjAwLWRlc2t0/b3AtaGQtYmxhY2st/d2lkb3ctYmFja2dy/b3VuZC5qcGc"
     },
     {
       "id": 5,
       "name": "Black Panther",
       "realName": "T'Challa",
       "universe": "Earth-616",
-      "image": "https://www.superherodb.com/pictures2/portraits/10/100/247.jpg"
+      "image": "https://imgs.search.brave.com/ztxecBOaFUQoq5CfaSmiLk4z_59dMHrFyEDQmBdsjqA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4t/cHJvZC5zY2FsZWZh/c3QuY29tL3B1Ymxp/Yy9hc3NldHMvaW1n/L3Jlc2l6ZWQvd2l6/YXJkc29mdGhlY29h/c3Qtc2VjcmV0LWxh/aXIvN2JiNGNmMWM3/MzM2ZWVkMzc0YzJh/OGQzNDQ3NDY5ODBf/S1JfNjM2X1E5MC53/ZWJw"
     },
     {
       "id": 6,
       "name": "Doctor Strange",
       "realName": "Stephen Strange",
       "universe": "Earth-616",
-      "image": "https://www.superherodb.com/pictures2/portraits/10/100/55.jpg"
+      "image": "https://imgs.search.brave.com/K3ucQ-MWc3u2OIdk2fgmuVuxmTKC9OnKTOpkdm_mCx4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzAz/MTAvNzQ4Ny83NTc3/L3Byb2R1Y3RzLzAx/Mjk0X0RyLVN0cmFu/Z2VfUm91bmRlZF82/ZWNmY2NiZS0yZWM0/LTQ4ZGYtYTZlYi0y/NzI4YTg4NTVjM2Nf/MzAweC5wbmc_dj0x/NjczNDQ4NzYw"
     },
     {
       "id": 7,
       "name": "Scarlet Witch",
       "realName": "Wanda Maximoff",
       "universe": "Earth-616",
-      "image": "https://www.superherodb.com/pictures2/portraits/10/100/444.jpg"
+      "image": "https://imgs.search.brave.com/vLkcRdrU0CSV8H0bktO-oHH21LrbB5d85U1yH7rou5c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE3LzVk/LzhkLzE3NWQ4ZDIx/MDdhYzA0YTNkYWE4/OGNkNmUwZjYxMzU4/LmpwZw"
     },
     {
       "id": 8,
       "name": "Hulk",
       "realName": "Bruce Banner",
       "universe": "Earth-616",
-      "image": "https://www.superherodb.com/pictures2/portraits/10/100/83.jpg"
+      "image": "https://imgs.search.brave.com/tTP2AniKs1RHDv_FoEurf7MXVLOlr29aNhNr5JgKk14/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzQwOTk3OTY4L3Iv/aWwvYTY0MGZiLzU3/NDk3Njc4OTgvaWxf/NjAweDYwMC41NzQ5/NzY3ODk4X2ZmdjMu/anBn"
     }
   ]
 }
